@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e936","FontColor":"#293e40","BackgroundColor":"#293e40","Name":"icon-Headphones-Mic"}</icon>
+        <name>icon-Headphones-Mic</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-06 15:52:21</sys_created_on>
+        <sys_id>480d2c402f320110111049e72799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Headphones-Mic</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</sys_scope>
+        <sys_update_name>sys_sg_icon_480d2c402f320110111049e72799b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-06 15:52:21</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

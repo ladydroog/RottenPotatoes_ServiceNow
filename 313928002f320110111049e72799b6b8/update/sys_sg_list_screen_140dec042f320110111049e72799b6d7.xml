@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>true</available_offline>
+        <description>Sysadmin Udemy Course App Games</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Headphones-Mic">480d2c402f320110111049e72799b6cc</icon>
+        <name>Games</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-06 15:52:21</sys_created_on>
+        <sys_id>140dec042f320110111049e72799b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Games</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</sys_scope>
+        <sys_update_name>sys_sg_list_screen_140dec042f320110111049e72799b6d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-06 15:52:21</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=140dec042f320110111049e72799b6d7"/>
+</record_update>
