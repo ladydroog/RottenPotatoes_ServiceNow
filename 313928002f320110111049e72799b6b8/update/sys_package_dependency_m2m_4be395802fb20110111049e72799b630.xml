@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">37dd52e2a5300110c0a0e1db2cdc959a</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-06 18:42:24</sys_created_on>
+        <sys_id>4be395802fb20110111049e72799b630</sys_id>
+        <sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

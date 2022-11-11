@@ -24,15 +24,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b3e395802fb20110111049e72799b68a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>games import</sys_name>
         <sys_overrides/>
         <sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</sys_scope>
         <sys_update_name>sys_app_module_b3e395802fb20110111049e72799b68a</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-06 18:42:27</sys_updated_on>
         <timeline_page/>
         <title>games import</title>
         <uncancelable>false</uncancelable>

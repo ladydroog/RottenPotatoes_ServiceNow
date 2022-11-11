@@ -8,14 +8,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-06 21:06:24</sys_created_on>
         <sys_id>d8b4bd882ff20110111049e72799b67e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>comments</sys_name>
         <sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</sys_scope>
         <sys_update_name>sys_ui_policy_action_d8b4bd882ff20110111049e72799b67e</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-06 21:06:24</sys_updated_on>
         <table>x_767916_rp_reviews</table>
         <ui_policy display_value="Approved ">f084b1c82ff20110111049e72799b679</ui_policy>
         <visible>ignore</visible>

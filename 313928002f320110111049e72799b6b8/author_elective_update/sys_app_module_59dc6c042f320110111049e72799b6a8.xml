@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Rotten Potatoes">91dc2c402f320110111049e72799b6e7</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_767916_rp_games</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-06 15:51:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>59dc6c042f320110111049e72799b6a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</sys_scope>
+        <sys_update_name>sys_app_module_59dc6c042f320110111049e72799b6a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-06 15:51:36</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</application>
+        <file_path/>
+        <instance_id>2d3b51f9db053f44f492c597059619a0</instance_id>
+        <instance_name>dev83816</instance_name>
+        <name>sys_app_module_59dc6c042f320110111049e72799b6a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Rotten Potatoes">91dc2c402f320110111049e72799b6e7</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_767916_rp_games</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-06 15:51:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>59dc6c042f320110111049e72799b6a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package><sys_policy/><sys_scope display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</sys_scope><sys_update_name>sys_app_module_59dc6c042f320110111049e72799b6a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-06 15:51:36</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>896297781</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>353928002f320110111049e72799b6ba</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-06 15:51:36</sys_created_on>
+        <sys_id>d1dc6c042f320110111049e72799b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fff92fb070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-06 15:51:36</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1ddc6c0429320110885cb9d28a2940a9</update_guid>
+        <update_guid_history>1ddc6c0429320110885cb9d28a2940a9:896297781</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">4e8b3ccc2f320110111049e72799b6c8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-06 16:55:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0c1fb2f5371b47b384532da6f99057e9</sys_id>
+        <sys_metadata>59dc6c042f320110111049e72799b6a8</sys_metadata>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</sys_scope>
+        <sys_scope_delete display_value="">08fa98f4f2ee4d188151b269141becc1</sys_scope_delete>
+        <sys_update_name>sys_app_module_59dc6c042f320110111049e72799b6a8</sys_update_name>
+        <sys_update_version display_value="sys_app_module_59dc6c042f320110111049e72799b6a8">d1dc6c042f320110111049e72799b6aa</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

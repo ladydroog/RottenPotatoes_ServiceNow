@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_767916_rp_games_import</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-06 18:42:25</sys_created_on>
+        <sys_id>17e395802fb20110111049e72799b63a</sys_id>
+        <sys_name>x_767916_rp_games_import</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</sys_scope>
+        <sys_update_name>ua_table_licensing_config_17e395802fb20110111049e72799b63a</sys_update_name>
+    </ua_table_licensing_config>
+</record_update>

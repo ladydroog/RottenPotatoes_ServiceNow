@@ -6,15 +6,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-04-06 17:18:14</sys_created_on>
-            <sys_id>42a081042f720110111049e72799b6b4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>stars</sys_name>
             <sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package>
             <sys_policy/>
             <sys_scope display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</sys_scope>
             <sys_update_name>sys_choice_x_767916_rp_reviews_stars</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:18:14</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -30,10 +26,6 @@
             <sys_created_on>2022-04-06 17:18:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d38045042f720110111049e72799b68e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:18:14</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -50,10 +42,6 @@
             <sys_created_on>2022-04-06 17:18:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d7b045042f720110111049e72799b69e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:18:35</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -70,10 +58,6 @@
             <sys_created_on>2022-04-06 17:18:50</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f6c045042f720110111049e72799b6a2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:18:50</sys_updated_on>
             <value>3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -90,10 +74,6 @@
             <sys_created_on>2022-04-06 17:19:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>19d08dc02f720110111049e72799b633</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:19:00</sys_updated_on>
             <value>4</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -110,10 +90,6 @@
             <sys_created_on>2022-04-06 17:19:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>cce081042f720110111049e72799b65f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:19:11</sys_updated_on>
             <value>5</value>
         </sys_choice>
     </sys_choice>

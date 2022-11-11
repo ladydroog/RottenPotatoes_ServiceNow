@@ -6,15 +6,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-04-06 17:02:09</sys_created_on>
-            <sys_id>eafcb0002f720110111049e72799b61f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>genre</sys_name>
             <sys_package display_value="Rotten Potatoes" source="x_767916_rp">313928002f320110111049e72799b6b8</sys_package>
             <sys_policy/>
             <sys_scope display_value="Rotten Potatoes">313928002f320110111049e72799b6b8</sys_scope>
             <sys_update_name>sys_choice_x_767916_rp_games_genre</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:02:09</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -30,10 +26,6 @@
             <sys_created_on>2022-04-06 17:02:09</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>63ecf4002f720110111049e72799b699</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:02:28</sys_updated_on>
             <value>FPS</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -50,10 +42,6 @@
             <sys_created_on>2022-04-06 17:02:37</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f2fcb8002f720110111049e72799b62a</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:02:46</sys_updated_on>
             <value>Puzzle</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -70,10 +58,6 @@
             <sys_created_on>2022-04-06 17:02:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e51d30002f720110111049e72799b66b</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:03:06</sys_updated_on>
             <value>Racing</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -90,10 +74,6 @@
             <sys_created_on>2022-04-06 17:03:27</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>422d38002f720110111049e72799b68d</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:03:42</sys_updated_on>
             <value>Role-Playing</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -110,10 +90,6 @@
             <sys_created_on>2022-04-06 17:04:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ff6df4002f720110111049e72799b699</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-06 17:04:34</sys_updated_on>
             <value>Sports</value>
         </sys_choice>
     </sys_choice>
